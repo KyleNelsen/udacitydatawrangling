@@ -1,4 +1,4 @@
-This is my first project for the data wrangling part of the Udacity Data Analytics Nanodegree.
+This is my first project for the data wrangling part of the Udacity Data Analytics Nanodegree. It involves gathering data from multiple sources, assessing the data for issues, cleaning those issues and presenting your insights.
 
 images - images used in the project
 
