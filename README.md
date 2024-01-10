@@ -4,7 +4,13 @@ images - images used in the project
 
 act_report - my insights and data visualizations
 
-twitter_archive_master.csv - cleaned dataset
+image_predictions.tsv - file from Udacity containing dog breed predictions
+
+tweet-json.txt - file that contains retweets and favorites data
+
+twitter-archived-enhanced.csv - file that contains a majority of tweet data
+
+twitter_archive_master.csv - file containing the cleaned and merged dataset
 
 wrangle_act - gathering, assessing, and cleaning the data
 
