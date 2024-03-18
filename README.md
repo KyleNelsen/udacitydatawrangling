@@ -21,21 +21,26 @@ wrangle_report - discussing what I did in wrangle_act
 Most popular dog breeds from the twitter account posts
 ![Dashboard](https://github.com/KyleNelsen/udacitydatawrangling/blob/main/images/dog_breeds.png)
 
+---
 
 Most popular dog names from the twitter account posts
 ![Dashboard](https://github.com/KyleNelsen/udacitydatawrangling/blob/main/images/dog_names.png)
 
+---
 
 Most favorited post from the twitter account
 ![Dashboard](https://github.com/KyleNelsen/udacitydatawrangling/blob/main/images/favorites_dog.jpg)
 
+---
 
 Most retweeted post from the twitter account
 ![Dashboard](https://github.com/KyleNelsen/udacitydatawrangling/blob/main/images/retweets_dog.jpg)
 
+---
 
 ![Dashboard](https://github.com/KyleNelsen/udacitydatawrangling/blob/main/images/retweets_favorites.png)
 
+---
 
 Pupper - small dog that's usually young
 Doggo - Big dog that's usually old
@@ -43,5 +48,6 @@ Puppo - In between Pupper and Doggo
 Floofer - Dogs with a lot of fur
 ![Dashboard](https://github.com/KyleNelsen/udacitydatawrangling/blob/main/images/stage.png)
 
+---
 
 ![Dashboard](https://github.com/KyleNelsen/udacitydatawrangling/blob/main/images/tweets_time.png)
