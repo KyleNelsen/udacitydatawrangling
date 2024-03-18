@@ -16,6 +16,7 @@ wrangle_act - gathering, assessing, and cleaning the data
 
 wrangle_report - discussing what I did in wrangle_act
 
+---
 
 Most popular dog breeds from the twitter account posts
 ![Dashboard](https://github.com/KyleNelsen/udacitydatawrangling/blob/main/images/dog_breeds.png)
